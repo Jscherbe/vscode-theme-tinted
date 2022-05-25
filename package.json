@@ -14,6 +14,13 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark",
+        "minimal",
+        "focus",
+        "eye strain"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/Jscherbe/vscode-theme-tinted.git"
