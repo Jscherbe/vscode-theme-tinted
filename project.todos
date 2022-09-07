@@ -1,0 +1,2 @@
+Todos:
+    ☐ Account for no arguments in javascript example `this.$store.getters['user/isFavorited']()`
