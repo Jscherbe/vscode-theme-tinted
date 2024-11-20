@@ -1,0 +1,6 @@
+Todos:
+  ☐ Need to have better separation between the actually selected and matched finds in editor (ie. cmd + d)
+    * Their values are too close
+  ☐ Setup Less stylesheet test (try to match colors in scss/css)
+  ☐ Unique symbols to style
+    * There are many I have noticed but not noted, in future I will add them here
