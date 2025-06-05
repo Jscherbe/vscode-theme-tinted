@@ -1,26 +1,4 @@
 Todos:
   ☐ Need to work on GIT merge colors
     ☐ Not sure if we can change color of "Incoming Change" label, may need to change background color
-  ☐ Color markdown braces (might not be in the scope of color theme)
-    * This is something I've been setting in user settings but could maybe be integrated into theme
-    * "[markdown]": {
-    *    "textMateRules": [
-    *      {
-    *        "name": "Highlight curly brace content in Markdown",
-    *        "match": "\\{.*?\\}",
-    *        "scope": "markdown.curly-brace-content"
-    *      }
-    *    ]
-    *  },
-    *  "editor.tokenColorCustomizations": {
-    *    "textMateRules": [
-    *      {
-    *        "scope": "markdown.curly-brace-content",
-    *        "settings": {
-    *          "foreground": "#808080",
-    *          "fontStyle": "italic"
-    *        }
-    *      }
-    *    ]
-    *  }
   ☐ Account for no arguments in javascript example `this.$store.getters['user/isFavorited']()`
