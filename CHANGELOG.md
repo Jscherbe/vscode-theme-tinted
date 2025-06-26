@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "tinted" extension will be documented in this file.
+## 0.0.3
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Fixed javascript "import" related coloring, 
+- Had been testing with 'babel-javascript', this includes fixes when using vscode 'javascript' language (template literals, import keyword, etc)
+- Adjust merge colors so that things like "(Incoming Change)" are visible (made overall description colors brighter to work better there [extension descriptions share this for example] without making them too bright). Not perfect for merge text but better

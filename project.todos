@@ -1,4 +1,4 @@
 Todos:
-  ☐ Need to work on GIT merge colors
-    ☐ Not sure if we can change color of "Incoming Change" label, may need to change background color
-  ☐ Account for no arguments in javascript example `this.$store.getters['user/isFavorited']()`
+  ✔ Need to work on GIT merge colors @done
+    ✔ Not sure if we can change color of "Incoming Change" label, may need to change background color @done
+    * Note: The color for that is shared across the ui, I tweaked it slightly
