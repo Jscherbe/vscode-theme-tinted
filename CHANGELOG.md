@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.0.3
+## 0.0.3 - 2025-06-26
 
 - Fixed javascript "import" related coloring, 
 - Had been testing with 'babel-javascript', this includes fixes when using vscode 'javascript' language (template literals, import keyword, etc)
