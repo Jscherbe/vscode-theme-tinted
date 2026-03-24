@@ -1,6 +1,7 @@
+Publish to Open VSX Registry:
+  ✔ Setup account / Sign agreements @done
+  ☐ Claim namespace
+    ☐ Namespace Verified (ready to publish) @in-progress
+      * Watch for "Granted" on https://github.com/EclipseFdn/open-vsx.org/issues/9132
+  ☐ Setup and publish to VSX Registry
 Todos:
-  ☐ Need to have better separation between the actually selected and matched finds in editor (ie. cmd + d)
-    * Their values are too close
-  ☐ Setup Less stylesheet test (try to match colors in scss/css)
-  ☐ Unique symbols to style
-    * There are many I have noticed but not noted, in future I will add them here
